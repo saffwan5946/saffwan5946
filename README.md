@@ -47,6 +47,7 @@
 
 ### 🍽️ Salt n Pepper Restaurant
 🔗 https://saffwan5946.github.io/Salt-and-pepper-website-v2/
+
 ✔ Modern restaurant design  
 ✔ User-friendly navigation  
 ✔ Mobile responsive  
