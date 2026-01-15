@@ -56,7 +56,7 @@
 
 ## 🚀 Portfolio
 🌐 **View my portfolio:**  
-👉 [https://your-portfolio-link.vercel.app/](https://cosmic-gingersnap-a2c46e.netlify.app/)
+👉 [https://your-portfolio-link.vercel.app/](https://protfolio-saffwan-shafqat.netlify.app/)
 
 ---
 
