@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saffwan Shafqat</h1>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Frontend Developer;Software+Engineering+Student;Web+%26+Mobile+Enthusiast;Frontend+Developer+%7C+UI+Focused"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Software+Engineering+Student;Web+%26+Mobile+Enthusiast;Frontend+Developer+%7C+UI+Focused"
     alt="Typing animation"
   />
 </p>
