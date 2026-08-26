@@ -50,13 +50,9 @@
 🔗 Live Demo: https://saffwan5946.github.io/JavaScript-Projects/
 
 ✔ Task creation, editing & deletion
-
 ✔ CRUD functionality
-
 ✔ User authentication
-
 ✔ Responsive UI
-
 ✔ Supabase integration 
 
 ---
