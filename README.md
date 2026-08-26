@@ -59,8 +59,8 @@
 
 🌤️ Weather App
 
-🔗 Live Demo:  https://saffwan5946.github.io/JavaScript-Projects/Project-06-weather-app/
-✔ Real-time weather data  
+🔗 Live Demo:  https://saffwan5946.github.io/JavaScript-Projects/Project-06-weather-app/ 
+✔ Real-time weather data <br>
 ✔ City-based weather search  
 ✔ Responsive design 
 ✔ Clean and user-friendly UI    
