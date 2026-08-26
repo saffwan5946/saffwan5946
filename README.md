@@ -56,6 +56,7 @@
 ✔ User authentication
 
 ✔ Responsive UI
+
 ✔ Supabase integration 
 
 ---
