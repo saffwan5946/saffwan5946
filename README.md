@@ -22,11 +22,16 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/WordPress-111?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/Elementor-111?style=for-the-badge&logo=elementor&logoColor=92003B" />
   <img src="https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 <p align="center">
