@@ -13,10 +13,11 @@
 ---
 
 ## 🌙 About Me
-- 🌱 Learning **Advanced JavaScript**
-- 🎨 Focused on **Frontend & UI Design**
-- 🚀 Building real-world projects
-- 🧠 Improving daily through consistency
+- 💻 Frontend Web Developer focused on **WordPress & Elementor**
+- 🎨 Passionate about **Web Design & UI/UX**
+- 📱 Building clean, responsive, and user-friendly websites
+- 🚀 Turning **Figma designs into responsive websites**
+- 🧠 Continuously improving my development and design skills
 
 ---
 
