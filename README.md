@@ -49,17 +49,18 @@
 
 🔗 Live Demo: https://saffwan5946.github.io/JavaScript-Projects/Project-01-Todo-App/
 
-✔ Task creation, editing & deletion
-✔ CRUD functionality
-✔ User authentication
-✔ Responsive UI
-✔ Supabase integration 
+✔ Task creation, editing & deletion <br>
+✔ CRUD functionality<br>
+✔ User authentication<br>
+✔ Responsive UI<br>
+✔ Supabase integration<br> 
 
 ---
 
 🌤️ Weather App
 
-🔗 Live Demo:  https://saffwan5946.github.io/JavaScript-Projects/Project-06-weather-app/  <br>
+🔗 Live Demo:  https://saffwan5946.github.io/JavaScript-Projects/Project-06-weather-app/
+
 ✔ Real-time weather data <br>
 ✔ City-based weather search  
 ✔ Responsive design <br>
