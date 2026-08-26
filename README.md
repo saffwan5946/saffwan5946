@@ -38,7 +38,7 @@
 ## 🏆 Projects
 
 ### 🎡 Positivus
-🔗 https://saffwan5946.github.io/Positivus/](https://demo.draftsndesigns.com/testing/positivus  
+🔗 https: https://demo.draftsndesigns.com/testing/positivus  
 ✔ Responsive layout  
 ✔ Clean UI structure  
 ✔ Figma Design 
