@@ -59,7 +59,7 @@
 
 🌤️ Weather App
 
-🔗 Live Demo:  https://saffwan5946.github.io/JavaScript-Projects/Project-06-weather-app/ 
+🔗 Live Demo:  https://saffwan5946.github.io/JavaScript-Projects/Project-06-weather-app/  <br>
 ✔ Real-time weather data <br>
 ✔ City-based weather search  
 ✔ Responsive design 
