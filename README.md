@@ -45,12 +45,15 @@
 
 ---
 
-### 🍽️ Salt n Pepper Restaurant
-🔗 https://saffwan5946.github.io/Salt-and-pepper-website-v2/
+📝 Todo App
 
-✔ Modern restaurant design  
-✔ User-friendly navigation  
-✔ Mobile responsive  
+🔗 Live Demo: https://saffwan5946.github.io/JavaScript-Projects/
+
+✔ Task creation, editing & deletion
+✔ CRUD functionality
+✔ User authentication
+✔ Responsive UI
+✔ Supabase integration 
 
 ---
 
