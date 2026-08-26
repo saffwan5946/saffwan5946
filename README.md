@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/Elementor-111?style=for-the-badge&logo=elementor&logoColor=92003B" />
   <img src="https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
