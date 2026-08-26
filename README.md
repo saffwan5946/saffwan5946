@@ -47,7 +47,7 @@
 
 📝 Todo App
 
-🔗 Live Demo: https://saffwan5946.github.io/JavaScript-Projects/
+🔗 Live Demo: https://saffwan5946.github.io/JavaScript-Projects/Project-01-Todo-App/
 
 ✔ Task creation, editing & deletion
 ✔ CRUD functionality
