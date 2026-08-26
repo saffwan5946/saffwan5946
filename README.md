@@ -61,6 +61,19 @@
 
 ---
 
+🌤️ Weather App
+
+🔗 Live Demo: Add your live demo link
+
+✔ Real-time weather data
+✔ City-based weather search
+✔ Responsive design
+✔ Clean and user-friendly UI
+✔ API integration
+
+---
+
+
 ## 🚀 Portfolio
 🌐 **View my portfolio:**  
 👉 [https://your-portfolio-link.vercel.app/](https://protfolio-saffwan-shafqat.netlify.app/)
